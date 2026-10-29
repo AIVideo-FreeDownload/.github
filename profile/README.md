@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI video generator free — text to video, no watermark" width="100%">
+<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/off-hero.jpg" alt="AI generated film frame - man in a New York office" width="100%">
+
+<div align="center">
 
 # AI Video Generator
 
@@ -9,16 +11,24 @@
 ![Credits](https://img.shields.io/badge/Credits-Unlimited-2563EB?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-2563EB?style=flat-square)
 
+</div>
+
+<p align="center"><sub>Frames generated with Runway-class AI video models.</sub></p>
+
 Video is the last content format that still required a crew. This generator turns sentences into motion: drone shots over neon cities, product spins, anime loops, impossible physics — rendered in Full HD and ready to post.
 
-<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/preview-v2.jpg" alt="AI video production projector" width="100%">
+| <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/off-gal1.jpg" alt="AI generated city chase frame" width="100%"> | <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/off-gal2.jpg" alt="AI generated anime frame" width="100%"> |
+| :---: | :---: |
+| *AI generated city chase frame* | *AI generated anime frame* |
+
+<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/off-extra.jpg" alt="Inside the AI video editor" width="100%">
+
+<p align="center"><sub>The editor timeline where clips are assembled.</sub></p>
 
 ## Two ways to create
 
 | Mode | You give it | You get |
 | --- | --- | --- |
-| **Text to video** | "A knight removes his helmet as rain begins, cinematic" | A living scene with camera movement |
-| **Image to video** | Any photo or artwork | The still, breathing — hair, water, light in motion |
 
 ## What people make with it
 
@@ -28,9 +38,7 @@ Video is the last content format that still required a crew. This generator turn
 - **Memes & edits** — animate any image in your camera roll
 - **Storyboards** — pitch scenes before filming them for real
 
-| <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Cinematic AI video frame"> | <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="AI video scene in motion"> |
 | :---: | :---: |
-| *Frames that look filmed* | *Motion with intent* |
 
 ## Download
 
