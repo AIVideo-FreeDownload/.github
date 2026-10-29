@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/banner.jpg" alt="AI video generator free — text to video, no watermark" width="100%">
+<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI video generator free — text to video, no watermark" width="100%">
 
 # AI Video Generator
 
