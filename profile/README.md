@@ -38,8 +38,6 @@ Video is the last content format that still required a crew. This generator turn
 - **Memes & edits** — animate any image in your camera roll
 - **Storyboards** — pitch scenes before filming them for real
 
-| :---: | :---: |
-
 ## Download
 
 The generator comes as one Windows pack. The button below opens the download page with the complete step-by-step walkthrough.
