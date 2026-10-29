@@ -11,7 +11,7 @@
 
 Video is the last content format that still required a crew. This generator turns sentences into motion: drone shots over neon cities, product spins, anime loops, impossible physics — rendered in Full HD and ready to post.
 
-<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/preview.jpg" alt="AI generated video production" width="100%">
+<img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/preview-v2.jpg" alt="AI video production projector" width="100%">
 
 ## Two ways to create
 
@@ -28,7 +28,7 @@ Video is the last content format that still required a crew. This generator turn
 - **Memes & edits** — animate any image in your camera roll
 - **Storyboards** — pitch scenes before filming them for real
 
-| <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot2.jpg" alt="Cinematic AI video frame"> | <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot3.jpg" alt="AI video scene in motion"> |
+| <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Cinematic AI video frame"> | <img src="https://raw.githubusercontent.com/AIVideo-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="AI video scene in motion"> |
 | :---: | :---: |
 | *Frames that look filmed* | *Motion with intent* |
 
